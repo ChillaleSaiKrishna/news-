@@ -9,11 +9,11 @@ steps required to get this working on a system.
 
  install the dependency by a simple command 
 
-  { pip install -r requirements.txt }
+   pip install -r requirements.txt 
 
-2. Run webnews.py file - this will create a database connection.
+2. Run webnews.py file - this will create a database.
 
-3. Run app.py file - which is the controler.
+3. Run app.py file.
 
 4. open the url which appears in the terminal. 
 
